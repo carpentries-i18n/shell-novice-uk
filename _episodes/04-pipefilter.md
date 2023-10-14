@@ -442,7 +442,7 @@ $ wc -l *.pdb | sort -n | head -n 1
 "lengths". "wc -l *.pdb | sort -n | head -n 1" побудує конвеєр, де
 вихід команди "wc" є входом для команди "sort", вихід команди
 команди "sort" є входом для команди "head", а вихід команди
-"head" буде спрямовано до терміналу](../fig/redirects-and-pipes.svg)
+"head" буде спрямовано до терміналу]({{ site.baseurl }}/fig/redirects-and-pipes.svg)
 
 > ## З'єднання команд у конвеєр
 >

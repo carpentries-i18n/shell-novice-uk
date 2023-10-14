@@ -552,7 +552,7 @@ done" послідовно присвоїть змінній "$filename" іме�
 цикл тричі послідовно викличе команду echo і виведе три
 рядки: "cp basislisk.dat original-basilisk.dat", потім "cp minotaur.dat
 original-minotaur.dat" та нарешті "cp unicorn.dat
-original-unicorn.dat"](../fig/shell_script_for_loop_flow_chart.svg)
+original-unicorn.dat"]({{ site.baseurl }}/fig/shell_script_for_loop_flow_chart.svg)
 
 ## Конвеєр Неллі: Обробка файлів
 
